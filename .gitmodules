@@ -22,9 +22,6 @@
 [submodule "bundle/vim-multiple-cursors"]
 	path = bundle/vim-multiple-cursors
 	url = git@github.com:terryma/vim-multiple-cursors.git
-[submodule "bundle/vim-polyglot"]
-	path = bundle/vim-polyglot
-	url = git@github.com:sheerun/vim-polyglot.git
 [submodule "bundle/vim-unimpaired"]
 	path = bundle/vim-unimpaired
 	url = git@github.com:tpope/vim-unimpaired.git
